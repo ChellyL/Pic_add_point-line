@@ -1,6 +1,11 @@
 # Pic_add_point-line
 防止图片被文字识别和屏蔽，给它加上点和线
 
+请确保已安装PIL
+
+```pip install pillow```
+
+
 点和线的数值可以改
 
 效果
